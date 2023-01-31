@@ -32,4 +32,6 @@
 <img align="left" alt="mysql" width="27px" height="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 <img align="left" alt="express" width="27px" height="27px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  />
 <img align="left" alt="redux" width="27px" height="27px" style="padding-right:10px;" src="https://www.svgrepo.com/download/303557/redux-logo.svg" />
+<img align="left" alt="redux" width="27px" height="27px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354333/sequelize.svg" />
+
 
