@@ -28,7 +28,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="figma" width="25px" height="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-<img align="left" alt="figma" width="25px" height="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JavaScript" />
-    
+<img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JavaScript" />
+<img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" />
 
