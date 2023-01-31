@@ -35,4 +35,12 @@
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354333/sequelize.svg" />
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374088/solidity.svg" />
 
+#
 
+### 📊 Stats
+
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroepce&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
