@@ -33,6 +33,6 @@
 <img align="left" alt="express" width="30px" height="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  />
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/303557/redux-logo.svg" />
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354333/sequelize.svg" />
-<img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+<img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374088/solidity.svg" />
 
 
