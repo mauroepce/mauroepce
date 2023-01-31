@@ -29,6 +29,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-<img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JavaScript" />
-<img align="left" alt="figma" width="27px" height="27px" style="padding-right:10px;" style="color:#fff" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" />
+<img align="left" alt="mysql" width="27px" height="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
+<img align="left" alt="express" width="27px" height="27px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"  />
+<img align="left" alt="redux" width="27px" height="27px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png" />
 
