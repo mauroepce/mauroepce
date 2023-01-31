@@ -1,9 +1,18 @@
-# 🏄‍♂️ Mauricio Patiño Cervantes
+# 🏄‍♂️  Mauricio Patiño Cervantes
 
 **`Full-Stack Developer (Developer/Swimmer/Guitar player)`**
 
 👨‍💻 I specialize in software development at a professional level. I have some projects that I have done and you can review them here. Both back-end and front-end.
 
-🚀 Additionally, I have experience as founder and CEO of a start-up. This allowed me to develop skills such as: raising investment capital, leadership, management of high performance teams and design and development of new software products. This app is still working, check it out: <a href="https://play.google.com/store/apps/details?id=com.birdi.market">Birdi app</a>
+🚀 Additionally, I have experience as founder and CEO of a start-up. This allowed me to develop skills such as: raising investment capital, leadership, management of high performance teams and design and development of new software products. This app is still working, check it out: <a href="https://play.google.com/store/apps/details?id=com.birdi.market" target="_blank">Birdi app</a>
 
 ⛓️ I am also passionate about blockchain technology. Personally I have created 2 projects using technologies such as: solidity.
+
+<p align="left">
+      <a href="https://github.com/mauroepce?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/mauroepce?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
