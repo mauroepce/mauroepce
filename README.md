@@ -49,7 +49,7 @@
 
 #
 
-<More personal details>
+<details>
 <summary><h3>👨‍💻 Mauro's Coding Journey</h3></summary
    I think that I have always had a love for technology, since I was a child I have disassembled computers and electronic devices, although later I always had pieces left over.
 I had my first computer when I was 9 years old. I learned the basics of MS-DOS to play and write stories. Due to things in life, I did not follow anything related to technology until 6 years ago when I started a start-up. I had the experience of creating a software product (a mobile app) from rough design to market release. It was a very hard path and in the end it didn't work out due to various situations, but the learning was incredible. It is for this reason that 2 years ago I resumed development to do what I like, which is creating things based on imagination, solving problems and the satisfaction of developing something from scratch.
