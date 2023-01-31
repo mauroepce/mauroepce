@@ -34,6 +34,7 @@
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/303557/redux-logo.svg" />
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354333/sequelize.svg" />
 <img align="left" alt="redux" width="30px" height="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374088/solidity.svg" />
+</p>
 
 #
 
