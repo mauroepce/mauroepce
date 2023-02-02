@@ -8,6 +8,8 @@
 
 ⛓️ I am also passionate about blockchain technology. Personally I have created 2 projects using technologies such as: solidity.
 
+If you are interested in talking, do not hesitate to contact me: mauricioeslainerpc@gmail.com
+
 <p align="left">
       <a href="https://github.com/mauroepce?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mauroepce?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
