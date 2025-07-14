@@ -4,8 +4,6 @@
 
 👨‍💻 I specialize in software development at a professional level. I have some projects that I have done and you can review them here. Both back-end and front-end.
 
-If you are interested in talking, do not hesitate to contact me: mauricioeslainerpc@gmail.com
-
 <p align="left">
       <a href="https://github.com/mauroepce?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mauroepce?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -38,9 +36,4 @@ If you are interested in talking, do not hesitate to contact me: mauricioeslaine
 #
 
 
-### 📊 Stats
-
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroepce&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
